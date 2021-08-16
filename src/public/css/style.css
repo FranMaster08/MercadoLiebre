@@ -1,0 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+.productos img {
+    display: inline-block;
+    width: 100%;
+}
