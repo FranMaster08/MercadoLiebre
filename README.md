@@ -13,6 +13,7 @@
 
 
 ## Tamaños Tipográficos
+|   |   | 
 | :------------ |:---------------:| 
 | Cuerpos de texto                               | 12px;  | 
 | Titulares (Basado en tu última visita/Ofertas) |  24px; |  
