@@ -1,3 +1,6 @@
+
+# Recursos
+
 ## Paleta de colores
 | Nombre Colore  | CodigoColor  | 
 | :------------ |:---------------:| 
@@ -10,8 +13,10 @@
 
 
 ## Tamaños Tipográficos
-Cuerpos de texto: 12px
-Titulares (Basado en tu última visita/Ofertas): 24px
-Precios: 18px
-Descuentos: 16px
-Descripciones: 16px
+
+| Cuerpos de texto                               | 12px;  | 
+| Titulares (Basado en tu última visita/Ofertas) |  24px; |  
+|   Precios                                      |  18px  |   
+|   Descuentos                                   |  16px  |    
+|   Descripciones                                |  16px  |    
+
