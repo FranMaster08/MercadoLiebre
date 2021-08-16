@@ -2,7 +2,7 @@
 # Recursos
 
 ## Paleta de colores
-| Nombre Colore  | CodigoColor  | 
+| Nombre Colores  | CodigoColor  | 
 | :------------ |:---------------:| 
 | Amarillo      |  #EAC926; | 
 | Azul          |  #03264C; |  
@@ -13,7 +13,7 @@
 
 
 ## Tamaños Tipográficos
-
+| :------------ |:---------------:| 
 | Cuerpos de texto                               | 12px;  | 
 | Titulares (Basado en tu última visita/Ofertas) |  24px; |  
 |   Precios                                      |  18px  |   
