@@ -34,10 +34,21 @@
     color:black;
     font-weight: bold;
 }
-
 main{
-    padding:15px;
+    width:90vw;
+    margin: auto;
+    margin-bottom: 10px;
     background:#ebebeb;
+}
+.infoArt{
+    border-top: 1px solid #8b4a4a;
+    background: white;
+    padding:15px;
+}
+.productos{
+    width:80%;
+    margin: auto;
+    margin-top: 10px;
 }
 
 .productos img {
@@ -53,4 +64,16 @@ main{
     margin: auto; 
     font-size:3em;  
     color: #1259c3;
+}
+
+
+
+
+@media (min-width:769px) {
+
+    .header-main{
+        display: flex;
+        justify-content: space-around;
+    }
+    
 }
